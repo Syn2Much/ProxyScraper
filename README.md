@@ -1,7 +1,7 @@
 # 🧙 ProxyWiz
 
 
-A high-performance, concurrent proxy checker and scraper written in Go. Automatically scrape proxies from 40+ public sources or use your own list, then validate them with detailed geolocation data.
+A high-performance, concurrent proxy checker and scraper written in Go. Automatically scrape proxies from 30+ public sources or use your own list, then validate them with detailed geolocation data.
 
 ![Animation](https://github.com/user-attachments/assets/ccdcdeaf-76d0-40e9-9027-5a06408c9410)
 
