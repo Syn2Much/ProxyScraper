@@ -3,7 +3,8 @@
 
 A high-performance, concurrent proxy checker and scraper written in Go. Automatically scrape proxies from 40+ public sources or use your own list, then validate them with detailed geolocation data.
 
-![Animation](https://github.com/user-attachments/assets/b25b8917-b1ee-435d-8736-a7ff1ce27a24)
+![Animation](https://github.com/user-attachments/assets/9e70ae96-1a24-4c19-bd8b-56c300cdc3fb)
+
 
 ## ✨ Features
 
