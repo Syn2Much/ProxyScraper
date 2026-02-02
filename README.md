@@ -129,9 +129,6 @@ Supported formats:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-
 ## ⚠️ Disclaimer
 
 This tool is for educational and legitimate purposes only. Always ensure you have permission to use proxies and comply with applicable laws and terms of service.
