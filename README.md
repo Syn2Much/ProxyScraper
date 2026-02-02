@@ -11,9 +11,7 @@ A high-performance, concurrent proxy checker and scraper written in Go. Automati
 - 🔥 **Blazing Fast** - Concurrent worker pool for maximum throughput
 - 🌐 **Auto-Scraping** - Scrapes from 40+ public proxy sources automatically
 - 📁 **Custom Lists** - Use your own proxy files
-- 🗺️ **Geolocation Data** - Get detailed IP info (country, city, ISP, timezone)
-- 📊 **JSON Export** - Full detailed JSON output for working proxies
-- 🎨 **Beautiful CLI** - Colored output with progress bar
+- 🗺️ **Geolocation Data** - Get detailed JSON output  (country, city, ISP, timezone)
 - 💾 **Auto-Save** - Saves progress on Ctrl+C interrupt
 - 🔄 **Deduplication** - Automatically removes duplicate proxies
 - ⚙️ **Configurable** - Adjust workers, timeout, and verbosity
