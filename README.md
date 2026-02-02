@@ -27,8 +27,8 @@ A high-performance, concurrent proxy checker and scraper written in Go. Automati
 ### Build from Source
 
 ```bash
-git clone https://github.com/Syn2Much/Proxy-Wiz.git
-cd Proxy-Wiz
+git clone https://github.com/Syn2Much/ProxyScraper.git
+cd ProxyScraper
 go build -o proxywiz .
 ```
 
