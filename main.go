@@ -470,7 +470,7 @@ func checkerMain(proxyFile string, timeout int, numWorkers int) {
 		go func(workerID int) {
 			defer wg.Done()
 			for proxyStr := range jobs {
-				// Test the proxy (your existing function, untouched)
+				// Test the proxy
 				proxyInfo := testProxy(proxyStr, timeout)
 
 				// Update shared state safely
@@ -538,7 +538,7 @@ func printBanner() {
 	}
 
 	fmt.Println()
-	fmt.Printf("%s%s    🧙 The Fastest HTTP/S Proxy Checker/Scraper 🧙%s\n", Green+Bold, strings.Repeat(" ", 15), Reset)
+	fmt.Printf("%s%s   🧙 The Fastest HTTP/S Proxy Checker/Scraper 🧙%s\n", Green+Bold, strings.Repeat(" ", 15), Reset)
 	fmt.Printf("%s%s@Syn2Much%s\n\n", Dim, strings.Repeat(" ", 50), Reset)
 }
 
